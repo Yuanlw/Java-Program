@@ -1,0 +1,9 @@
+package spiderMan;
+
+public class SpiderMan {
+
+	
+	public static void main(String[] args) {
+		System.out.println("hello Spider Man");
+	}
+}
