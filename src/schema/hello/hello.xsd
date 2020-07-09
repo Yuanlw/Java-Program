@@ -1,8 +1,8 @@
 <xsd:schema
-        xmlns=""
+        xmlns="https://github.com/Yuanlw/Java-Program/tree/master/src/schema/hello"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema"
         xmlns:beans="http://www.springframework.org/schema/beans"
-        targetNamespace=""
+        targetNamespace="https://github.com/Yuanlw/Java-Program/tree/master/src/schema/hello"
         elementFormDefault="qualified"
         attributeFormDefault="unqualified">
     <xsd:import namespace="http://www.springframework.org/schema/beans"/>
